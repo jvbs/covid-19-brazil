@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './api'
 import Cards from './components/Cards/Cards'
 
 import styles from './App.module.css'
